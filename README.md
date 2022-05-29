@@ -1,7 +1,7 @@
 👋 Hi, I’m @aerincyn, Yuan Ning
 👀 I’m interested in hiking, workout, photo shotting
 🌱 I’m currently learning Business Analysis and Data Analysis 
-📫 reach out to me via ychiang2020@student.hult.edu
+📫 reach out to me via ning972@gmail.com
 
 <!---
 aerincyn/aerincyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
